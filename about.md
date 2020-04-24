@@ -8,7 +8,7 @@ Some information about me!
 
 ### More Information
 
------<-Under-Construvtion->-----
+-----<-Under-Construvtion->----- :)
 
 ### Contact me
 
