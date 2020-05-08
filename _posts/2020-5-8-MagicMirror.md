@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Jenkins is GREAT........
+title: Magic Mirror
 ---
-## JENKINS
-### Useful Tool
+## MagicMirror
+### Look yourself with info......
 
-![](/images/jenkins.png)
-
-Jenkins is very useful tool for project development automation.
-**Easy** and  **Productive**
+Great way to start your day/
+Start your day in style

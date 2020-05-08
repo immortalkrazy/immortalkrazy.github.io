@@ -7,6 +7,7 @@ title: Motion Eye Surveillance System........
 ### Everything in your CONTROL
 
 <img src = "/images/ME01.jpg" width=100>
+
 Motion Eye can be created using a RaspberryPi,\
 a very economical way to create a surveilance system.
 
@@ -16,5 +17,3 @@ a very economical way to create a surveilance system.
 - Notifications
 - Cloud backup
 - Online secure access
-
-<img src = "/images/ME02.jpg" width=100>
