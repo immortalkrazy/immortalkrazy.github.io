@@ -1,0 +1,11 @@
+---
+layout: post
+title: Jenkins is GREAT........
+---
+## JENKINS
+### Useful Tool
+
+![](/images/jenkins.png)
+
+Jenkins is very useful tool for project development automation.
+**Easy** and  **Productive**
