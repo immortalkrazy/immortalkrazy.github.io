@@ -8,7 +8,7 @@ title: Motion Eye Surveillance System........
 
 <img src = "../images/ME01.jpg" width=100>
 
-Motion Eye can be created using a RaspberryPi,\
+Motion Eye can be created using a RaspberryPi,<br>
 a very economical way to create a surveilance system.
 
 ## Features include:
