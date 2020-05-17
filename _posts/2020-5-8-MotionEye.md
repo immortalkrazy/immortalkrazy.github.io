@@ -12,6 +12,8 @@ title: Motion Eye Surveillance System........
 Motion Eye can be created using a RaspberryPi,<br>
 a very economical way to create a surveilance system.
 
+<img src = "https://github.com/immortalkrazy/immortalkrazy.github.io/blob/master/images/mm3.png" width=100>
+
 ## Features include:
 
 - Motion detection
