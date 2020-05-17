@@ -2,7 +2,7 @@
 layout: post
 title: Motion Eye Surveillance System........
 ---
-![](/images/mm1.jpg)
+![](/images/mm1.png)
 
 ## Motion Eye
 ### You will Love It
@@ -12,7 +12,7 @@ title: Motion Eye Surveillance System........
 Motion Eye can be created using a RaspberryPi,<br>
 a very economical way to create a surveilance system.
 
-![](/images/mm3.jpg)
+![](/images/mm3.png)
 
 ## Features include:
 
@@ -21,4 +21,4 @@ a very economical way to create a surveilance system.
 - Cloud backup
 - Online secure access
 
-![](/images/mm2.jpg)
+![](/images/mm2.png)
