@@ -2,12 +2,11 @@
 layout: post
 title: Jenkins on AWS Instance
 ---
+![](/images/aws-jenkins.png)
+
 ## JENKINS @ AWS
 ### redHat Instance
 ### Connect anywhere and everywhere
-
-![](/images/aws-jenkins.png)
-
 
 
 			---jenkins on AWS---
